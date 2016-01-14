@@ -1,31 +1,79 @@
-# top level stuff you probably don't need to touch
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Joseph Godwin Kimani
+
+# Short bio or description (displayed in the header)
+description: Web Developer 
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars1.githubusercontent.com/u/13916761?v=3&s=400
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:	JosephGodwinKE
+  facebook: JosephGodwinKE
+  flickr:
+  github: Gochojr
+  instagram:
+  linkedin: godwingocho
+  pinterest:
+  reddit: user/josephgodwinke
+  rss: josephgodwinke                 # just type anything here for a working RSS icon
+  twitter: josephgodwinke
+  stackoverflow: users/5194112/joseph-godwinke   # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: JosephGodwinKE                   # channel/<your_long_string> or user/<user-name>
+  googleplus: u/0/+JosephGodwinke           # anything in your profile username that comes after plus.google.com/
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: gochojrgithubio
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-71809558-3
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url:  http://gochojr.github.io
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: "/blogsite"
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+markdown: redcarpet
 highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-gems: [jekyll-paginate]
-port: 3000
-safe: true
+permalink: /:title/
 
+# The release of Jekyll Now that you're using
+version: v1.1.0
 
-# edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Joseph Godwin Kimani
-author: Joseph Godwin Kimani
-description: Personal blog and Resume
-avatar: profile.png
-email: josephgodwinke@gmail.com
-github: gochojr # username
-twitter: josephgodwinke
-linkedin: godwingocho
-stackoverflow: users/5194112/joseph-godwinke   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: josephgodwinke
-google_analytics: UA-69391421-1
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
 
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
-# needed for travis-ci build
-exclude: [vendor]
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
