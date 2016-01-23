@@ -16,6 +16,6 @@ I currently use Cygwin with my own personal holy scroll of awesome shell script.
 Some of you would want all that hustle try [Babun](http://babun.github.io/) shell which a two shell pre-configuration featuring cool software development tools.![image](https://s-media-cache-ak0.pinimg.com/736x/4e/5c/f7/4e5cf7d4ccb9c59b6620a9c71944d51e.jpg)
 
 
-[`Have a look at my Holy scroll!`](http://bit.ly/1RrYd3E)
+[`Have a look at my Holy scroll!`](https://gist.github.com/Gochojr/0ae41e4767a2af031de1)
 
 
