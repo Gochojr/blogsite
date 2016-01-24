@@ -4,7 +4,7 @@ title: Cygwin Takeover
 comments: True
 ---
 
-
+[![Terminal Lover](https://img.shields.io/badge/terminal-lover-blue.svg?style=flat-square)](https://github.com/Gochojr)
 
 ![image](http://treasure.diylol.com/uploads/post/image/439841/resized_creepy-willy-wonka-meme-generator-you-thought-you-could-run-a-real-shell-on-windows-how-s-cygwin-treating-you-6176da.jpg)
 
