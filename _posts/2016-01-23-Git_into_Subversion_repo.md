@@ -4,7 +4,7 @@ title: Git into Subversion repo
 comments: True
 ---
 
-### How do I integrate a Git repo with my existing local Subversion repo?
+### How do I integrate a Git repo with a local Subversion repo?
 
 Git has a feature that works with Subversion repos called `git-svn`. It is intended to check out existing code from Subversion and work on it, not publishing a Git tree into a Subversion repo.
 
