@@ -23,7 +23,7 @@ OR we can use VisualSVN Server Management console to create [Regular FSFS repo](
 
 ![image](https://raw.githubusercontent.com/jgodwin13/blogsite/gh-pages/images/image1.png)
 
-![image](https://raw.githubusercontent.com/jgodwin13/blogsite/gh-pages/images/image2.png
+![image](https://raw.githubusercontent.com/jgodwin13/blogsite/gh-pages/images/image2.png)
 
 Finally set the access control security for the repo and open it in browser to see empty svn file. Then create directories `trunks` `tags` `branches`
 
