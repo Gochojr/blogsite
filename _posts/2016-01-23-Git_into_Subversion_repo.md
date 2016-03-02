@@ -21,9 +21,9 @@ Lets create an empty subversion repo using Windows command prompt:
 
 OR we can use VisualSVN Server Management console to create [Regular FSFS repo](https://www.visualsvn.com/support/topic/00080/) using the 'Create new repository' action wizard:
 
-![image](image1.png)
+![image](https://raw.githubusercontent.com/jgodwin13/blogsite/gh-pages/images/image1.png)
 
-![image](image2.png)
+![image](https://raw.githubusercontent.com/jgodwin13/blogsite/gh-pages/images/image2.png
 
 Finally set the access control security for the repo and open it in browser to see empty svn file. Then create directories `trunks` `tags` `branches`
 
