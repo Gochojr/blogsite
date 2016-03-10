@@ -20,4 +20,6 @@ Some of you would'nt want all that hustle!! try [Babun](http://babun.github.io/)
 
 > **^_^** **---------------->**   [`Have a look at my Holy scroll!`](https://gist.github.com/Gochojr/0ae41e4767a2af031de1)
 
+![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png 
+"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0") 
 

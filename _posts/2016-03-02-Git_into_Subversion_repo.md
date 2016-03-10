@@ -55,6 +55,6 @@ Now for the finale spell:
     echo %cd% my_git_repo> git branch -d svn
     echo %cd% my_git_repo> git svn dcommit
 
-
-
+![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png 
+"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0") 
 
