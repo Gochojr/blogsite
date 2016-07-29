@@ -22,7 +22,7 @@ By now you should have already referred to [FAQs by Babun.](http://babun.github.
 
 Wrong! As a windows user working on meagre hardware resources you need a blazing fast tool that saves you the time during cloning + committing, demoing projects, developing a heavy project.
 
-Contrary to what @yveshwang says about Babun, it is very easy to Copy and Paste in terminal actually you just copy from wherever and right click on terminal.. viola! 
+Contrary to what @yveshwang says about Babun, it is very easy to Copy and Paste in terminal actually you just copy from wherever and right click on terminal.. voila! 
 
 ### Don't know what am talking about??
 
