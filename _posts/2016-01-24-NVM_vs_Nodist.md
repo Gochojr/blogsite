@@ -29,7 +29,7 @@ I am running five different versions of Node.js currently and all I have to use 
 Better is that I get to use it with this other tool called [node-windows](https://github.com/coreybutler/node-windows) which acts as big brother for all my Node.js scripts. Basically it runs all my Node.js scripts as Windows services and I get an event-log just in case..
 
 ----------
-### For more information
+## For more information
 
 - [why-the-hell-would-i-use-node-js](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 - [This is too shallow for me](https://nodejs.org/en/about/)
