@@ -29,8 +29,6 @@ I am running five different versions of Node.js currently and all I have to use 
 Better is that I get to use it with this other tool called [node-windows](https://github.com/coreybutler/node-windows) which acts as big brother for all my Node.js scripts. Basically it runs all my Node.js scripts as Windows services and I get an event-log just in case..
 
 ----------
-![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png 
-"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0") 
 ### For more information
 
 - [why-the-hell-would-i-use-node-js](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
@@ -38,5 +36,8 @@ Better is that I get to use it with this other tool called [node-windows](https:
 - [Can I use it with Visual Studio?](https://code.visualstudio.com/Docs/runtimes/nodejs)
 - [I thought you said it can be used with MongoDB?!](https://docs.mongodb.org/getting-started/node/)
 - [**WAIT!** I don't know what the hell you are talking about????!!](https://www.udemy.com/understand-nodejs/)
+
+![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png 
+"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0") 
 
 
