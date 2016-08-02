@@ -33,7 +33,7 @@ Example:
 - for `attrb1` = 1 (bold text)
 - for `<color-code>` = 3-foreground-color yellow
 
-For a list of colors and attributes [click here!](https://gist.github.com/jgodwin13/fd8c1ad08c716c7ed1e9)
+For a list of colors and attributes [click here!](https://gist.github.com/josephgodwinkimani/fd8c1ad08c716c7ed1e9)
 
 You can also add `PS1` with current git branch, current success state of the last git command, current timestamp `\[\033[01;30m\]\t`, return git status indicator, hostname `\[\033[00;32m\]\h`, git informations and working directory.
 
@@ -68,7 +68,7 @@ You can also add some manual documentation for yourself to help you if you canno
     "
 Have a look at my customised gitbash:
 
-![image](https://raw.githubusercontent.com/jgodwin13/blogsite/gh-pages/images/custom_bash.png)
+![image](https://raw.githubusercontent.com/josephgodwinkimani/blogsite/gh-pages/images/custom_bash.png)
 
 
 ### When I launch my gitbash it takes time to get me started?
@@ -78,7 +78,13 @@ If you put alot of executables in your `bash.bashrc` maybe launch of ssh-agents 
 
 
 
-> **^_^** **---------------->**   [`Have a look at my Holy scroll!`](https://gist.github.com/jgodwin13/fd8c1ad08c716c7ed1e9)
+> **^_^** **---------------->**   [`Have a look at my Holy scroll!`](https://gist.github.com/josephgodwinkimani/fd8c1ad08c716c7ed1e9)
 
 ![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png 
-"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0") 
+"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0")           [![ <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="ZQVADBPY2D2D6">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4)
+
