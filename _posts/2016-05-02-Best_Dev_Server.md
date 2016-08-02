@@ -38,7 +38,7 @@ Having used this for three months now I can say it is easily configurable since 
 
 
 ![http://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png 
-"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0") [![ <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+"Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International- CC BY-NC-SA 4.0")           [![ <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="ZQVADBPY2D2D6">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
